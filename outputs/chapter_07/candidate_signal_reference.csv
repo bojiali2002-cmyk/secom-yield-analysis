@@ -1,0 +1,9 @@
+feature,pass_observed_count,pass_median,pass_q05,pass_q10,pass_q90,pass_q95,signal_tier,interpretation_type,descriptive_direction,logistic_direction
+feature_298,1462,0.0522,0.0243,0.02981,0.0866,0.097795,Primary,Direction-consistent,Positive,Positive
+feature_21,1462,-5529.0,-6480.4875,-6418.2,-5207.25,-5085.75,Primary,Direction-consistent,Positive,Positive
+feature_59,1456,0.7222500000000001,-6.04775,-4.48635,14.008199999999999,22.74725,Primary,Direction-consistent,Positive,Positive
+feature_121,1454,15.79,15.62,15.69,15.93,15.95,Primary,Direction-consistent,Positive,Positive
+feature_163,1462,0.119,0.054,0.067,0.1939000000000001,0.22295000000000004,Primary,Context-dependent,Positive,Negative
+feature_33,1462,8.7662,8.2832,8.3331,9.3851,9.7137,Supporting,Direction-consistent,Positive,Positive
+feature_79,1439,0.0,-0.029419999999999998,-0.02224,0.029560000000000013,0.04970999999999999,Supporting,Context-dependent,Positive,Negative
+feature_122,1454,3.882,2.723,2.897,4.92,5.975249999999998,Supporting,Context-dependent,Negative,Positive
